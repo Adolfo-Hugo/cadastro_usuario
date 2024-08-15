@@ -22,4 +22,13 @@ Este projeto é um sistema simples para cadastro de usuários, onde as informaç
 - Pandas
 - Excel (formato .xlsx)
 
+<<<<<<< HEAD
 
+=======
+## Como Usar
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seuusuario/cadastro_usuario.git
+   cd cadastro_usuario
+>>>>>>> b63ec27d10e5af787db1ed987e3f37dd44027750
